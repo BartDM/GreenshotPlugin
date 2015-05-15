@@ -34,7 +34,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenshotOfficePlugin", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenshotPhotobucketPlugin", "..\GreenshotPhotobucketPlugin\GreenshotPhotobucketPlugin.csproj", "{9C0ECC4C-7807-4111-916A-4F57BB29788A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenshotDemoPlugin", "GreenshotDemoPlugin\GreenshotDemoPlugin.csproj", "{F07D7F1A-68B0-46CB-A544-3AA2E4EEFCBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenshotDemoPlugin", "..\GreenshotDemoPlugin\GreenshotDemoPlugin.csproj", "{F07D7F1A-68B0-46CB-A544-3AA2E4EEFCBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
